@@ -1,0 +1,210 @@
+body {
+background: -webkit-gradient(linear, 0 0, 0 1005, from(#d5cec3), color-stop(0.317, #d4d3c4), color-stop(0.393, #d4d5bf), color-stop(0.455, #d6cfa1), color-stop(0.583, #cd960e), color-stop(0.596, #c8900d), color-stop(0.602, #c48d0d), color-stop(0.604, #c38c0d), color-stop(0.606, #c28b0d), color-stop(0.614, #bd870d), color-stop(0.623, #b7820d), color-stop(0.627, #b4800d), color-stop(0.633, #b07d0d), color-stop(0.644, #a9780d), color-stop(0.646, #a8770d), color-stop(0.654, #a4740d), color-stop(0.657, #a3730d), color-stop(0.66, #a2720d), color-stop(0.663, #a1710d), color-stop(0.671, #a06f0d), color-stop(0.675, #a06e0e), color-stop(0.682, #a16d0e), color-stop(0.703, #a86c0f), color-stop(0.706, #a96d0f), color-stop(0.715, #ae6e10), color-stop(0.723, #b26f10), color-stop(0.729, #b57011), color-stop(0.735, #b87111), color-stop(0.742, #bb7211), color-stop(0.75, #be7312), color-stop(0.757, #c07412), color-stop(0.766, #c27513), color-stop(0.781, #c47513), color-stop(0.8, #c37513), color-stop(0.814, #c27313), color-stop(0.825, #c17213), color-stop(0.836, #c07012), color-stop(0.845, #bf6f12), color-stop(0.864, #bd6c11), color-stop(0.869, #bd6b10), color-stop(0.881, #bb6910), color-stop(0.896, #b9660f), color-stop(0.902, #b8650e), color-stop(0.908, #b7640e), color-stop(0.925, #b5610d), color-stop(0.925, #b5600d), color-stop(0.93, #b4600d), color-stop(0.93, #b45f0d), color-stop(0.935, #b35f0d), color-stop(0.935, #b35e0d), color-stop(0.941, #b25e0d), color-stop(0.941, #b25d0d), color-stop(0.946, #b15d0d), color-stop(0.946, #b15c0c), color-stop(0.952, #b05c0c), color-stop(0.952, #b05b0c), color-stop(0.958, #af5b0c), color-stop(0.958, #af5a0c), color-stop(0.962, #ae5a0c), color-stop(0.969, #ad590c), color-stop(0.973, #ad580c), color-stop(0.973, #ad590d), color-stop(0.975, #ac590d), color-stop(0.976, #ac570c), color-stop(0.982, #ab570c), color-stop(0.99, #aa560c), color-stop(0.99, #aa550c), color-stop(0.992, #aa550c), color-stop(0.992, #aa560d), color-stop(0.993, #aa550c), color-stop(0.994, #aa560d), color-stop(0.998, #a9560d), color-stop(0.998, #a9540c), to(#a9540c)) no-repeat;
+background: -webkit-linear-gradient(#d5cec3, #d4d3c4 31.7%, #d4d5bf 39.3%, #d6cfa1 45.5%, #cd960e 58.3%, #c8900d 59.6%, #c48d0d 60.2%, #c38c0d, #c28b0d 60.6%, #bd870d 61.4%, #b7820d 62.3%, #b4800d 62.7%, #b07d0d 63.3%, #a9780d 64.4%, #a8770d 64.6%, #a4740d 65.4%, #a3730d, #a2720d, #a1710d 66.3%, #a06f0d 67.1%, #a06e0e 67.5%, #a16d0e 68.2%, #a86c0f 70.3%, #a96d0f 70.6%, #ae6e10 71.5%, #b26f10 72.3%, #b57011, #b87111 73.5%, #bb7211 74.2%, #be7312 75%, #c07412 75.7%, #c27513 76.6%, #c47513 78.1%, #c37513 80%, #c27313 81.4%, #c17213, #c07012 83.6%, #bf6f12 84.5%, #bd6c11 86.4%, #bd6b10 86.9%, #bb6910 88.1%, #b9660f 89.6%, #b8650e, #b7640e 90.8%, #b5610d 92.5%, #b5600d 92.5%, #b4600d 93%, #b45f0d 93%, #b35f0d 93.5%, #b35e0d 93.5%, #b25e0d 94.1%, #b25d0d 94.1%, #b15d0d 94.6%, #b15c0c 94.6%, #b05c0c 95.2%, #b05b0c 95.2%, #af5b0c 95.8%, #af5a0c 95.8%, #ae5a0c 96.2%, #ad590c 96.9%, #ad580c 97.3%, #ad590d 97.3%, #ac590d 97.5%, #ac570c 97.6%, #ab570c 98.2%, #aa560c 99%, #aa550c 99%, #aa550c 99.2%, #aa560d 99.2%, #aa550c, #aa560d 99.4%, #a9560d 99.8%, #a9540c 99.8%, #a9540c) no-repeat;
+background: -moz-linear-gradient(#d5cec3, #d4d3c4 31.7%, #d4d5bf 39.3%, #d6cfa1 45.5%, #cd960e 58.3%, #c8900d 59.6%, #c48d0d 60.2%, #c38c0d, #c28b0d 60.6%, #bd870d 61.4%, #b7820d 62.3%, #b4800d 62.7%, #b07d0d 63.3%, #a9780d 64.4%, #a8770d 64.6%, #a4740d 65.4%, #a3730d, #a2720d, #a1710d 66.3%, #a06f0d 67.1%, #a06e0e 67.5%, #a16d0e 68.2%, #a86c0f 70.3%, #a96d0f 70.6%, #ae6e10 71.5%, #b26f10 72.3%, #b57011, #b87111 73.5%, #bb7211 74.2%, #be7312 75%, #c07412 75.7%, #c27513 76.6%, #c47513 78.1%, #c37513 80%, #c27313 81.4%, #c17213, #c07012 83.6%, #bf6f12 84.5%, #bd6c11 86.4%, #bd6b10 86.9%, #bb6910 88.1%, #b9660f 89.6%, #b8650e, #b7640e 90.8%, #b5610d 92.5%, #b5600d 92.5%, #b4600d 93%, #b45f0d 93%, #b35f0d 93.5%, #b35e0d 93.5%, #b25e0d 94.1%, #b25d0d 94.1%, #b15d0d 94.6%, #b15c0c 94.6%, #b05c0c 95.2%, #b05b0c 95.2%, #af5b0c 95.8%, #af5a0c 95.8%, #ae5a0c 96.2%, #ad590c 96.9%, #ad580c 97.3%, #ad590d 97.3%, #ac590d 97.5%, #ac570c 97.6%, #ab570c 98.2%, #aa560c 99%, #aa550c 99%, #aa550c 99.2%, #aa560d 99.2%, #aa550c, #aa560d 99.4%, #a9560d 99.8%, #a9540c 99.8%, #a9540c) no-repeat;
+background: -o-linear-gradient(#d5cec3, #d4d3c4 31.7%, #d4d5bf 39.3%, #d6cfa1 45.5%, #cd960e 58.3%, #c8900d 59.6%, #c48d0d 60.2%, #c38c0d, #c28b0d 60.6%, #bd870d 61.4%, #b7820d 62.3%, #b4800d 62.7%, #b07d0d 63.3%, #a9780d 64.4%, #a8770d 64.6%, #a4740d 65.4%, #a3730d, #a2720d, #a1710d 66.3%, #a06f0d 67.1%, #a06e0e 67.5%, #a16d0e 68.2%, #a86c0f 70.3%, #a96d0f 70.6%, #ae6e10 71.5%, #b26f10 72.3%, #b57011, #b87111 73.5%, #bb7211 74.2%, #be7312 75%, #c07412 75.7%, #c27513 76.6%, #c47513 78.1%, #c37513 80%, #c27313 81.4%, #c17213, #c07012 83.6%, #bf6f12 84.5%, #bd6c11 86.4%, #bd6b10 86.9%, #bb6910 88.1%, #b9660f 89.6%, #b8650e, #b7640e 90.8%, #b5610d 92.5%, #b5600d 92.5%, #b4600d 93%, #b45f0d 93%, #b35f0d 93.5%, #b35e0d 93.5%, #b25e0d 94.1%, #b25d0d 94.1%, #b15d0d 94.6%, #b15c0c 94.6%, #b05c0c 95.2%, #b05b0c 95.2%, #af5b0c 95.8%, #af5a0c 95.8%, #ae5a0c 96.2%, #ad590c 96.9%, #ad580c 97.3%, #ad590d 97.3%, #ac590d 97.5%, #ac570c 97.6%, #ab570c 98.2%, #aa560c 99%, #aa550c 99%, #aa550c 99.2%, #aa560d 99.2%, #aa550c, #aa560d 99.4%, #a9560d 99.8%, #a9540c 99.8%, #a9540c) no-repeat;
+background-size: contain;
+
+font-family: arial;
+color: #333;
+}
+h1 {
+	font-size: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 60px 0 0 0;
+	padding: 0;
+}
+.title {
+	font-size: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	display: block;
+}
+.fist_table, .sec_table {
+	width: 58%;
+	
+	border-radius: 0 0 20px 20px;
+	border-left: 1px solid #aaaea4;
+	border-right: 1px solid #aaaea4;
+	border-bottom: 1px solid #aaaea4;
+	
+}
+.fist_table {
+	margin: 70px auto 50px;	
+}
+.sec_table {
+	margin: 0 auto;
+}
+.tab_title {
+	background: #4d7eb3;
+	height: 49px;
+	width: 100%;
+	margin: 0 auto;
+	border-top: 1px solid #91b0d8;
+	border-bottom: 1px solid #315589;
+	border-left: 1px solid #315589;
+	cursor: pointer;
+	box-sizing: border-box;
+	border-right: 1px solid #315589;
+	-webkit-box-shadow: 0px -1px 0px 0px rgba(49,85,137,1);
+-moz-box-shadow: 0px -1px 0px 0px rgba(49,85,137,1);
+box-shadow: 0px -1px 0px 0px rgba(49,85,137,1);
+}
+.tab_title:hover .therd_tit{
+	display: block;
+}
+.first_tit {
+	padding: 1px 15px;
+}
+.first_tit img {
+ 	padding: 7px  0 0;
+ 	margin-left: -6px;
+ 	display: block;
+ 	float: left;
+
+}
+.sec_tit {
+	color: #fff;
+	font-size: 20px;
+	text-align: left;
+	float: left;
+	padding: 10px;
+	width: 500px;
+}
+.therd_tit {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;right; 
+	float: right;
+	cursor: pointer;
+	display: none;
+
+}
+.therd_tit img {
+	padding: 1px 15px;
+}
+
+.therd_tit li {
+	display: inline-block;
+	height: 17px;
+	float: left;
+	margin-top: 10px;
+
+}
+.therd_tit li:first-child {
+	border-right: 1px solid #5298cb;
+} 
+.first_sect {
+	width: 100%;
+	margin:0 auto;
+	height: 49px;
+	background: #d2d2d2;
+}
+.first_sect span {
+	padding: 10px 12px;
+	float: left;
+}
+.first_sect input {
+	float: left;
+	width: 75%;
+	margin: 7px 0 11px 0;
+    padding: 5px 9px;
+    border-top: 1px solid #707070;
+    border-left: none;
+    font-size: 14px;
+    color: #8a8a8a;
+}	
+.first_sect button {
+	margin: 7px 0 10px 0;
+	width: 108px;
+	color: #fff;
+	font-weight: bold;
+	background: -webkit-linear-gradient(top, rgb(148, 203, 174) 0%, rgb(82, 132, 106) 100%);
+background: -o-linear-gradient(top, rgb(148, 203, 174) 0%, rgb(82, 132, 106) 100%);
+background: -ms-linear-gradient(top, rgb(148, 203, 174) 0%, rgb(82, 132, 106) 100%);
+background: -moz-linear-gradient(top, rgb(148, 203, 174) 0%, rgb(82, 132, 106) 100%);
+background: linear-gradient(to bottom, rgb(148, 203, 174) 0%, rgb(82, 132, 106) 100%);
+border: 1px solid #447557;
+border-radius: 0 5px 5px 0; 
+padding: 5px 0;
+font-size: 14px;
+text-shadow: 1px 3px 1px rgba(0, 0, 0, .5);
+} 	
+.item {
+	background: #fff;
+	border-top:  1px solid #aaa;
+	border-bottom: 1px solid #e7ebea;
+	width: 100%;
+	height: 50px;
+	cursor: pointer;
+
+}
+.item:last-child {
+	border-radius: 0 0 20px 20px;
+	height: 80px;
+} 
+.item:last-child .check {
+	height: 50px;
+}
+.check {
+	padding: 15px 10px;
+	width: auto;
+	float: left;
+	border-right: 1px solid #efdadf;
+}
+.check input {
+	border-radius: 2px;
+}
+.descr {
+	width: 75%;
+	float: left;
+	margin-left: 7px;
+	border-left: 1px solid #efdadf;
+	padding: 15px 10px;
+	
+	color: #999999;
+	height: 100%;
+	box-sizing: border-box;
+	border-right: 1px solid #e7ebea;
+}
+.instrments {
+	margin-right: 15px;
+	height: 100%;
+	float: right;
+}
+.instrments ul {
+	list-style-type: none;
+	padding: 0;
+	height: 100%;
+	display: none;
+}
+.instrments ul li {
+	display: block;
+	float: left;
+	padding: 0 7px;
+	border-right: 1px solid #cccccc; 
+	height: 20px;
+	width: 26px;
+	
+}
+.instrments ul li:last-child {
+	border: none; 
+
+}
+.item:hover {
+	background: #fcfed5;
+}
+.item:hover .instrments ul {
+	display: block;
+}
+.add {
+	width: 210px;
+	margin: 50px auto;
+}
+.copyrait {
+	width: 100px;
+	margin: 0 auto 40px;
+	font-size: 12px;
+	color: #fff;
+}
